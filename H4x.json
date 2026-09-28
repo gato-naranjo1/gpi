@@ -1,0 +1,26 @@
+{
+  "app": {
+    "id": "com.danaelh4.nadvpn",
+    "name": "NadiaVPN"
+  },
+  "update": {
+    "latest_version": "1.2",
+    "version_code": 12,
+    "minimum_version": "1.0",
+    "minimum_version_code": 10,
+    "force_update": false,
+    "enabled": false,
+    "apk_url": "https://db.h4x.site/downloads/nadvpn-v1.2.apk",
+    "release_date": "2026-09-28",
+    "size": "29.5 MB"
+  },
+  "message": {
+    "enabled": false,
+    "title": "Aviso",
+    "text": "Solo Por Si Acaso."
+  },
+  "links": {
+    "telegram": "https://t.me/danaelssh",
+    "telegram2": "https://t.me/channel_Nadia_Store"
+  }
+}
